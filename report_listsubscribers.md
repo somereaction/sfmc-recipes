@@ -99,6 +99,8 @@ where l.Status = 'unsubscribed'
 group by v.ListID
 ```
 
+## Add-on: Historical Reporting
+
 Data Extension Name:
 view_listsubscribers_data_report
 
